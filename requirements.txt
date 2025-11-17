@@ -1,0 +1,14 @@
+matplotlib==3.10.5
+networkx==3.5
+numpy==2.3.2
+pandas==2.3.2
+shapely==2.1.1
+geopandas==1.1.1
+osmnx==2.0.6
+h3==4.3.1
+rasterio==1.4.3
+scipy==1.16.0
+scikit-learn==1.7.1
+h3pandas==0.3.0
+pysal==25.7
+esda==2.7.1

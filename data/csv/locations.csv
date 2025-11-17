@@ -1,0 +1,26 @@
+address;location;coordinates;dem_file
+Av. Brigadeiro Luís Antônio, 633 - Jardim Paulista, São Paulo - SP;BK Avenida Paulista;(-23.5659512,-46.6557966);data/dem/avpaulista.tif
+Av. República do Líbano, 1157 - Ibirapuera, São Paulo - SP;Portão 7 - Pq Ibirapuera;(-23.5908541,-46.6693886);data/dem/ibirapuera.tif
+R. do Matão, 1010 - Butantã, São Paulo - SP;Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP);(-23.5590075,-46.7318555);data/dem/ime_usp.tif
+Av. Brasil - Centro, Poá - SP;Estação CPTM Poá-SP;(-23.5258822,-46.3437528);data/dem/cptm_poa.tif
+Santana, São Paulo - SP;Portuguesa-Tietê;(-23.516102,-46.6277796);data/dem/portuguesa_tiete.tif
+Av. BPS, 1303 - Pinheirinho, Itajubá - MG;Universidade Federal de Itajubá;(-22.4128276,-45.452329);data/dem/unifei.tif
+Av. Dr. Jerson Dias, 500 - Estiva, Itajubá - MG;Prefeitura Municipal de Itajubá;(-22.4122869,-45.4369407);data/dem/prefeitura_itajuba.tif
+Praça Teodomiro Santiago;Centro - Itajubá;(-22.4242544,-45.455196);data/dem/praca_teodomiro.tif
+R. Sebastião Lopes da Silva, 198-210, São José do Alegre - MG;Terminal Rodoviário de São José Do Alegre;(-22.327657,-45.530135);data/dem/terminal_sao_jose_do_alegre.tif
+Rua Itamotinga, s/n - Paraisópolis, São Paulo - SP;Comunidade Paraisópolis;(-23.6239000,-46.7213100);data/dem/comunidade_paraisopolis.tif
+Av. Almirante Delamare - Heliópolis, São Paulo - SP;Comunidade Heliópolis;(-23.5974800,-46.5994700);data/dem/comunidade_heliopolis.tif
+Rua Serra da Juruoca - Vila Brasilândia, São Paulo - SP;Vila Brasilândia;(-23.4729400,-46.6985700);data/dem/vila_brasilandia.tif
+Estrada do Lageado - Cidade Tiradentes, São Paulo - SP;Cidade Tiradentes;(-23.5773000,-46.4082000);data/dem/cidade_tiradentes.tif
+Rua Nossa Senhora do Bom Conselho - Jardim Ângela, São Paulo - SP;Jardim Ângela;(-23.7152000,-46.7669000);data/dem/jardim_angela.tif
+Rua Bela Cintra, 2061 - Jardim Paulista, São Paulo - SP;Rua Oscar Freire;(-23.5618311,-46.6648328);data/dem/rua_oscar_freire.tif
+Av. Pedro Paulo de Morais, 1200 - Alto de Pinheiros, São Paulo - SP;Parque Villa-Lobos;(-23.5446700,-46.7263800);data/dem/parque_villa_lobos.tif
+Av. Magalhães de Castro, 12000 - Cidade Jardim, São Paulo - SP;Shopping Cidade Jardim;(-23.6034167,-46.6984149);data/dem/shopping_cidade_jardim.tif
+Dique 3, Juana Manuela Gorriti, C1107 CABA, Argentina;Puente de la Mujer, Puerto Madero;(-34.6098, -58.3633);data/dem/puerto_madero.tif
+Av. Gendarmería Nacional 520, C1104 CABA, Argentina;Entrada principal Barrio Mugica (antiga Villa 31);(-34.5882, -58.3768);data/dem/barrio_mugica.tif
+Champ de Mars, 5 Avenue Anatole France, 75007 Paris - França;Torre Eiffel;(48.8584,2.2945);data/dem/torre_eiffel.tif
+Rue de Rivoli, 75001 Paris - França;Museu do Louvre;(48.8606,2.3376);data/dem/museu_louvre.tif
+Piazza del Duomo, 20122 Milano MI, Itália;Catedral de Milão (Duomo di Milano);(45.4642,9.1915);data/dem/catedral_milao.tif
+Paris;França;(48.8566, 2.3522);data/dem/paris.tif
+Barcelona;Espanha;(41.3784, 2.1910);data/dem/barcelona.tif
+Curitiba;Paraná;(-25.4244, -49.2654);data/dem/curitiba.tif
