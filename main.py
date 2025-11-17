@@ -517,7 +517,6 @@ def plot_map_with_isochrones(graph, center_node: int, iso_colors: list,
     # Plot base map elements
     plot_base_map(ax, graph, gdf_green, gdf_water, iso_colors, iso_intervals, center_node)
 
-    # Create time legend
     legend_elements_time = [
         Line2D([0], [0], color=iso_colors[0], lw=2, label="0 - 5 min"),
         Line2D([0], [0], color=iso_colors[1], lw=2, label="5 - 10 min"),
@@ -1540,7 +1539,6 @@ def process_and_save_traffic_signals_report(traffic_signals_gdf: gpd.GeoDataFram
     
     ensure_directory_exists(file_name)
     df_final.to_csv(file_name, index=False, encoding='utf-8-sig')
-    
     # print(f"\n-> File '{file_name}' saved with {len(df_final)} records.")
     # print(f"   Columns: {df_final.columns.to_list()}")
 
@@ -1564,7 +1562,6 @@ if __name__ == '__main__':
         'dentist': '#BEBADA', 'doctors': '#FB8072', 'hospital': '#E31A1C',
         'pharmacy': '#8DD3C7', 'cinema': '#BC80BD', 'theatre': '#BC80BD', 
         'hotel': '#B3DE69',
-        # New POIs with viridis/cividis palette colors
         'gym': '#440154', 'fitness_centre': '#440154', 'fitness_center': '#440154',
         'supermarket': '#31688E', 'convenience': '#35B779', 
         'bakery': '#FDE724', 'greengrocer': '#6DCD59', 'grocery': '#35B779'
